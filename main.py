@@ -37,5 +37,3 @@ while up:
     except:
         print("An error occured. Try again.")
         
-
-    
